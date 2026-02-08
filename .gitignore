@@ -4,5 +4,4 @@ __pycache__/
 
 database/
 attendance.csv
-liveness.model
 *.pkl
